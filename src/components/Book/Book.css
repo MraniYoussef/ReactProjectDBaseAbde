@@ -1,0 +1,25 @@
+.body {
+  max-width: 640px;
+  margin: auto;
+}
+.Book {
+    display: flex;
+    margin-top: 12px;
+  }
+  
+.Book > div {
+   margin-left: 12px;
+  }
+  .Book input {
+    display: block;
+    margin: 6px 0;
+  }
+  .Book button {
+    margin: 4px 2px;
+  }
+
+   img {
+    max-width: 200px;
+  }
+  
+  
